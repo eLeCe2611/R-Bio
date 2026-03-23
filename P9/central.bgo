@@ -1,0 +1,64 @@
+File created with BiNGO v3.0.5  (c) on 10 abr 2025 at 21:57:46
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://c395489d-2efe-4d4e-b4d7-eb9caea0e043_198.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://c395489d-2efe-4d4e-b4d7-eb9caea0e043_198.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+GROUP	2	
+
+No annotations were retrieved for the following entities:
+GROUP	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+42256	6.9906E-5	2.9710E-3	1	1	1	14305	mature ribosome assembly	2
+10037	6.9906E-5	2.9710E-3	1	1	1	14305	response to carbon dioxide	2
+1868	1.3981E-4	2.9710E-3	1	2	1	14305	regulation of complement activation, lectin pathway	2
+1869	1.3981E-4	2.9710E-3	1	2	1	14305	negative regulation of complement activation, lectin pathway	2
+45916	2.0972E-4	3.5652E-3	1	3	1	14305	negative regulation of complement activation	2
+2921	2.7962E-4	3.9613E-3	1	4	1	14305	negative regulation of humoral immune response	2
+30449	3.4953E-4	4.2443E-3	1	5	1	14305	regulation of complement activation	2
+10955	4.1943E-4	4.4565E-3	1	6	1	14305	negative regulation of protein maturation by peptide bond cleavage	2
+45824	4.8934E-4	4.6215E-3	1	7	1	14305	negative regulation of innate immune response	2
+10953	6.9906E-4	5.4018E-3	1	10	1	14305	regulation of protein maturation by peptide bond cleavage	2
+70613	6.9906E-4	5.4018E-3	1	10	1	14305	regulation of protein processing	2
+42255	7.6896E-4	5.4468E-3	1	11	1	14305	ribosome assembly	2
+2920	8.3887E-4	5.4849E-3	1	12	1	14305	regulation of humoral immune response	2
+2698	1.3282E-3	8.0641E-3	1	19	1	14305	negative regulation of immune effector process	2
+2673	1.8875E-3	1.0398E-2	1	27	1	14305	regulation of acute inflammatory response	2
+50777	1.9574E-3	1.0398E-2	1	28	1	14305	negative regulation of immune response	2
+6953	2.6564E-3	1.3282E-2	1	38	1	14305	acute-phase response	2
+31348	2.9360E-3	1.3865E-2	1	42	1	14305	negative regulation of defense response	2
+70925	3.7749E-3	1.6888E-2	1	54	1	14305	organelle assembly	2
+45088	4.1943E-3	1.7826E-2	1	60	1	14305	regulation of innate immune response	2
+22618	5.3827E-3	2.1787E-2	1	77	1	14305	ribonucleoprotein complex assembly	2
+2526	6.2216E-3	2.2530E-2	1	89	1	14305	acute inflammatory response	2
+50727	6.2915E-3	2.2530E-2	1	90	1	14305	regulation of inflammatory response	2
+2683	6.3614E-3	2.2530E-2	1	91	1	14305	negative regulation of immune system process	2
+51384	6.7808E-3	2.3055E-2	1	97	1	14305	response to glucocorticoid stimulus	2
+31960	7.2702E-3	2.3108E-2	1	104	1	14305	response to corticosteroid stimulus	2
+2697	7.3401E-3	2.3108E-2	1	105	1	14305	regulation of immune effector process	2
+48585	8.8081E-3	2.6636E-2	1	126	1	14305	negative regulation of response to stimulus	2
+42254	9.0877E-3	2.6636E-2	1	130	1	14305	ribosome biogenesis	2
+31347	1.1255E-2	3.1889E-2	1	161	1	14305	regulation of defense response	2
+7584	1.1744E-2	3.2202E-2	1	168	1	14305	response to nutrient	2
+32101	1.3352E-2	3.4932E-2	1	191	1	14305	regulation of response to external stimulus	2
+22613	1.3562E-2	3.4932E-2	1	194	1	14305	ribonucleoprotein complex biogenesis	2
+51248	1.4820E-2	3.7050E-2	1	212	1	14305	negative regulation of protein metabolic process	2
+48545	1.5729E-2	3.7997E-2	1	225	1	14305	response to steroid hormone stimulus	2
+50776	1.6428E-2	3.7997E-2	1	235	1	14305	regulation of immune response	2
+10035	1.6638E-2	3.7997E-2	1	238	1	14305	response to inorganic substance	2
+31667	1.6987E-2	3.7997E-2	1	243	1	14305	response to nutrient levels	2
+9991	1.8455E-2	4.0223E-2	1	264	1	14305	response to extracellular stimulus	2
+6412	2.0273E-2	4.3079E-2	1	290	1	14305	translation	2
+6954	2.2020E-2	4.4081E-2	1	315	1	14305	inflammatory response	2
+34622	2.2020E-2	4.4081E-2	1	315	1	14305	cellular macromolecular complex assembly	2
+80134	2.2300E-2	4.4081E-2	1	319	1	14305	regulation of response to stress	2
+34621	2.4816E-2	4.7941E-2	1	355	1	14305	cellular macromolecular complex subunit organization	2
